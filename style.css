@@ -1,0 +1,269 @@
+.option-one-screen {
+    display: none;
+  }
+  
+  .option-two-screen {
+    display: none;
+  }
+  
+  .option-three-screen {
+    display: none;
+  }
+  
+  .option-four-screen {
+    display: none;
+  }
+  
+  .option-five-screen {
+    display: none;
+  }
+  
+  .option-six-screen {
+    display: none;
+  }
+  
+  .option-seven-screen {
+    display: none;
+  }
+  
+  .option-eight-screen {
+    display: none;
+  }
+  
+  .option-nine-screen {
+    display: none;
+  }
+  
+  .option-ten-screen {
+    display: none;
+  }
+  
+  .option-eleven-screen {
+    display: none;
+  }
+  
+  .option-twelve-screen {
+    display: none;
+  }
+  
+  .option-thirteen-screen {
+    display: none;
+  }
+  
+  body {
+    font-family: 'Anton', sans-serif;
+    background-color: #13293dff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title {
+    margin-top: 20px;
+    background-color: #3e92ccff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+  }
+  
+  .title h1 {
+    margin: 0;
+    color: #ffffff;
+  }
+  
+  .story-opening,
+  .option-one-screen,
+  .option-two-screen,
+  .option-three-screen,
+  .option-four-screen,
+  .option-five-screen,
+  .option-six-screen,
+  .option-seven-screen,
+  .option-eight-screen,
+  .option-nine-screen,
+  .option-ten-screen,
+  .option-eleven-screen,
+  .option-twelve-screen,
+  .option-thirteen-screen {
+    background-color: #13293dff;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .story-opening img,
+  .option-one-screen img,
+  .option-two-screen img,
+  .option-three-screen img,
+  .option-four-screen img,
+  .option-five-screen img,
+  .option-six-screen img,
+  .option-seven-screen img,
+  .option-eight-screen img,
+  .option-nine-screen img,
+  .option-ten-screen img,
+  .option-eleven-screen img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  button.option-one {
+    background-color: #3e92ccff;
+    display: center;
+    justify-content: start;
+  }
+  
+  button.option-one:hover {
+    background-color: #8BAAAD;
+  }
+  
+  button.option-two {
+    background-color: #AD343E;
+    display: center;
+    justify-content: start;
+  }
+  
+  button.option-two:hover {
+    background-color: #FF5770;
+  }
+  
+  button.option-three {
+    background-color: #3e92ccff;
+    display: center;
+    justify-content: start;
+  }
+  
+  button.option-three:hover {
+    background-color: #8BAAAD;
+  }
+  
+  button.option-four {
+    background-color: #AD343E;
+    display: center;
+    justify-content: start;
+  }
+  
+  button.option-four:hover {
+    background-color: #FF5770;
+  }
+  
+  button.option-five {
+    background-color: #3e92ccff;
+  }
+  
+  button.option-five:hover {
+    background-color: #8BAAAD;
+  }
+  
+  button.option-six {
+    background-color: #AD343E;
+  }
+  
+  button.option-six:hover {
+    background-color: #FF5770;
+  }
+  
+  button.option-seven {
+    background-color: #3e92ccff;
+  }
+  
+  button.option-seven:hover {
+    background-color: #8BAAAD;
+  }
+  
+  button.option-eight {
+    background-color: #AD343E;
+  }
+  
+  button.option-eight:hover {
+    background-color: #FF5770;
+  }
+  
+  button.option-nine {
+    background-color: #3e92ccff;
+  }
+  
+  button.option-nine:hover {
+    background-color: #8BAAAD;
+  }
+  
+  button.option-ten {
+    background-color: #AD343E;
+  }
+  
+  button.option-ten:hover {
+    background-color: #FF5770;
+  }
+  
+  button.option-eleven {
+    background-color: #AD343E;
+  }
+  
+  button.option-eleven:hover {
+    background-color: #FF5770;
+  }
+  
+  button.option-twelve {
+    background-color: #3e92ccff;
+  }
+  
+  button.option-twelve:hover {
+    background-color: #8BAAAD;
+  }
+  
+  button.option-thirteen {
+    background-color: #AD343E;
+  }
+  
+  button.option-thirteen:hover {
+    background-color: #FF5770;
+  }
+  
+  h2 {
+    color: #FBFEF9;
+  }
+  
+  hr {
+    border: none;
+    height: 2px;
+    background-color: #AD343E;
+  }
+  
+  .gato {
+    display: flex;
+    justify-content: start;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+  }
+  
+  .dog {
+    display: flex;
+    justify-content: start;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+  }
+  
+  .music {
+    display: flex;
+    justify-content: start;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+  }
